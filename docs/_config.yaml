@@ -1,2 +1,6 @@
 theme: minima
-title: Juan Luque's homepage
+title: Juan Luque
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/jdluque" }
+    - { platform: linkedin, user_url: "https:linkedin.com/in/jdluque" }
