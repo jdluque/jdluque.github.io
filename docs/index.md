@@ -6,7 +6,7 @@ title: "Home"
 Test text abcde.
 
 <!-- <img align="left" src="images/test.jpg" /> -->
-<img style="float: right;" src="whatever.jpg">
+<img style="float: left;" src="images/test.jpg">
 
 ## Second header
 More text.
