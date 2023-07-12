@@ -1,5 +1,9 @@
 theme: minima
 title: Juan Luque
+
+description: >
+Description in footer lorem impsum.
+
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/jdluque" }
