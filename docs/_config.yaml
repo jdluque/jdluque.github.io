@@ -5,11 +5,14 @@ description: >
   Description in footer lorem impsum.\n
   email: `juand1121 at gmail dot com`
 
-github_username: jdluque
-linkedin_username: jdluque
+remote_theme: pages-theme/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
-theme: minima
-minima:
+# github_username: jdluque
+# linkedin_username: jdluque
+
+# minima:
   # social_links:
   #   - { platform: github, user_url: "https://github.com/jdluque" }
   #   - { platform: linkedin, user_url: "https:linkedin.com/in/jdluque" }
