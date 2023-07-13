@@ -1,5 +1,4 @@
 title: JL's page
-# email: "`juand1121 at gmail dot com`"
 
 description: >
   Description in footer lorem impsum.\n
@@ -11,11 +10,3 @@ plugins:
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-minimal
-
-# github_username: jdluque
-# linkedin_username: jdluque
-
-# minima:
-  # social_links:
-  #   - { platform: github, user_url: "https://github.com/jdluque" }
-  #   - { platform: linkedin, user_url: "https:linkedin.com/in/jdluque" }
