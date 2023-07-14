@@ -7,7 +7,7 @@ I am fortunate to be advised by Prof. Aravind Srinivasan at the University of Ma
 
 ### Selected Projects
 - [DSSG DoJo](https://github.com/jdluque/dojo_mh_public)
-- Group Fairness in Set Packing (co-authors: Sharmila Duppala, Aravind Srinivasan, John Dickerson)**(appearing IJCAI-23)**
+- Group Fairness in Set Packing _(co-authors: Sharmila Duppala, Aravind Srinivasan, John Dickerson)_ **(appearing IJCAI-23)**
 - Obsidian Plugins
     - [Next Link](https://github.com/jdluque/next-link)
     - [Share Connected Components](https://github.com/jdluque/obsidian-share-connected-component)
