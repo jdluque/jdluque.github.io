@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Bio
-I am fortunate to be advised by Prof. Aravind Srinivasan at the University of Maryland in College Park where I study Computer Science and research randomized algorithms, machine learning, and fairness. I am also proud to be a 2022 Data Science for Social Good Fellow in affiliation with Carnegie Mellon University. I hold a Mathematics B.S. from the University of Maryland Baltimore County.
+I am fortunate to be advised by Prof. [Aravind Srinivasan](http://www.cs.umd.edu/~srin/) at the University of Maryland in College Park where I study Computer Science and research randomized algorithms, machine learning, and fairness. I am also proud to be a 2022 [Data Science for Social Good Fellow](https://www.dssgfellowship.org/) in affiliation with Carnegie Mellon University. I hold a Mathematics B.S. from the University of Maryland Baltimore County.
 
 ## Selected Projects
 - [DSSG DoJo](https://github.com/jdluque/dojo_mh_public)
