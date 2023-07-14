@@ -2,8 +2,8 @@ title: Juan Luque
 logo: images/pfp.jpg
 
 description: >
-  Description in footer lorem impsum.\n
-  email: `juand1121 at gmail dot com`
+  You can reach me via email at `juand1121 at gmail dot com`\n
+  [Hobbies](hobbies.md) -- [CV](assets/LuqueJuan_resume.pdf)
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
